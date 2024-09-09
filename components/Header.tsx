@@ -13,7 +13,7 @@ const Header = () => {
                     WJR<span className="text-accent">.</span>
                 </h1>
             </Link>
-
+           
             {/* Desktop nav e hire me button */}
             <div className="hidden xl:flex items-center gap-8">
                 <Nav />
